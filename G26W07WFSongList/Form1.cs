@@ -45,6 +45,7 @@ namespace G26W07WFSongList
             foreach (var song in filteredSongs)
             {
                 listSong.Items.Add(song);
+
             }
         }
     }
